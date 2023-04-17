@@ -1,0 +1,5 @@
+Ivan/Petrovich/Ogurcov/ì/2019-10-22/25.0/ivan@ogurcov.ru
+ALEVTINA/MIKHAILOVNA/KOVALEVA/æ/2017-09-10/12/alevt23@mail.ru
+mikhail/alekseevich/danya/ì/2015-08-07/2/michael_uno@gmail.com
+" Sergey "/  "Petrovich"/"    Fedorov"    /m/2014-12-05/23/fedorov@petrovich.ru
+Mariya    /   Nicolaevna/   Sorokina    /f/12-10-11/11.0/maria_mirabella@gmail.com
